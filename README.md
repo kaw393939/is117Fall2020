@@ -15,3 +15,4 @@ Code From Class: https://github.com/kaw393939/is117Sesion4b
 5.  [IS117 - Meeting 5](https://youtu.be/QH2VuSEAqA0)
 6.  [IS117 - Meeting 6](https://youtu.be/l_WyifwSqxM)
 7.  [IS117 - Meeting 7](https://youtu.be/q4G-74Gb3DU)
+8.  [IS117 - Meeting 8](https://youtu.be/AidD7G5uomg)
